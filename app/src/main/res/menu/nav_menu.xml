@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sinonim"
+            android:icon="@drawable/ic_sinonim"
+            android:title="Sinonim" />
+        <item
+            android:id="@+id/nav_antonim"
+            android:icon="@drawable/ic_antonim"
+            android:title="Antonim" />
+        <item
+            android:id="@+id/nav_polisemi"
+            android:icon="@drawable/ic_polisemi"
+            android:title="Polisemi" />
+        <item
+            android:id="@+id/nav_kata_pengantar"
+            android:icon="@drawable/ic_kata_pengantar"
+            android:title="Kata Pengantar" />
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_tentang"
+            android:title="Tentang Kami" />
+    </group>
+</menu>

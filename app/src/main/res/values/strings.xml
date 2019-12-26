@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">KU2BA</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="txt_appbar_toolbar">" Buku Saku Bahasa Arab "</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="kata_pengantar">
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Alhamdulillah saya ucapkan Kepada Allah Subhanahu wata’ala, yang telah melimpahkan karunia, rahmat serta hidayah-Nya yang tak akan pernah bisa terhitung. Disamping itu, berkat izin-Nyalah aplikasi ini berhasil diciptakan dengan nama <b>“KU2BA”</b> (Buku Saku Bahasa Arab). Sholawat bertabur salam semoga selalu tercurahkan kepada sang teladan agung sepanjang zaman yaitu Nabi Muhammad Shallallahu’alaihi wasallam, yang telah mengeluarkan kita dari kegelapan menuju samudera cahaya yang terang juga menawan.\n\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Aplikasi ini tercipta berkat dosen saya yang mengajar di mata kuliah “Fiqh Lughah”, Jurusan Pendidikan Bahasa Arab, IAIN Syekh Nurjati Cirebon. Beliau adalah Ibu Yanti Kusnawati, M.Ag, saya ucapkan terimakasih sebesar-besarnya karena beliau telah membimbing dan memotivasi saya khususnya dalam pembelajaran. Disamping itu saya juga ucapkan terima kasih kepada teman saya Ardelingga Pramesta Kusuma yang telah bersedia dan sanggup bekerja sama dalam pembuatan aplikasi ini. Semoga Allah senantiasa membalas kebaikan mereka berdua. Aamiin.\n\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Anda sedang mempelajari bahasa Arab? Apakah pembendaharaan kosa kata anda sudah banyak? Atau mungkin anda kurang pembendaharaan kosa kata bahasa Arab karena malas membuka kamus? Nah, aplikasi ini merupakan solusi yang tepat bagi para pembelajar Bahasa Arab yang sangat jarang atau mungkin merasa malas membuka kamus.\n\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Aplikasi ini bernama “Buku Saku Bahasa Arab”, sesuai dengan namanya aplikasi ini didesain secara sederhana dengan memfokuskan kepada kata yang memiliki persamaan (مُرادف), perbedaan(ضِدّ) , serta satu kata yang memiliki makna banyak (تعدد المعنى). Aplikasi ini bertujuan untuk memudahkan bagi siapa saja yang ingin menghafal kosa kata bahasa Arab dimana saja dan kapan saja. Dengan jumlah kata yang berantonim 141 artinya terdapat 282 kosa kata yang berbeda, kemudian kata yang bersinonim sejumlah 150 dimana satu kata memiliki persamaan dua atau lebih maka jumlah kisaran adalah 450 kata, ditambah jumlah kata di bagian polisemi sebanyak 60. Maka dapat disimpulkan, orang yang memiliki buku saku ini dan menggunakannya mampu menghafal 792 kosa kata. Disamping itu, ia akan mengetahui kata yang  memiliki antonim, sinonim dan polisemi.\n\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Aplikasi ini masih memerlukan pengembangan dan perbaikan yang lebih baik lagi, saran dan kritik yang membangun sangat diperlukan. Terimakasih. Semoga Bermanfaat.\n\n
+    Wassalamu’alaikum Wr.Wb\n</string>
+
+    <string name="txt_tentang_aplikasi">Alhamdulillahirabil\'alamin.. Allahummasholli\'ala sayyidina muhammadin wa\'ala \'ali sayydina muhammad. Alhamdulillah atas berkat rahmat allah dan kehendaknyalah
+    aplikasi ini dapat selesai dibuat. Akan tetapi aplikasi ini masih sangat memerlukan perbaikan dan pengembangan. Oleh karena itu saran dan kritik sangat diperlukan untuk melakukan perbaikan di aplikasi ini. Terimakasih. Semoga Bermanfaat. \nWassalamu’alaikum Wr.Wb</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15b8cd</color>
+    <color name="colorPrimaryDark">#0097a7</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_ui_red">#E52920</color>
+    <color name="color_ui_black">#FF292936</color>
+    <color name="color_status_bar">#B71C1C</color>
+
+    <color name="color_black">#000000</color>
+    <color name="color_shimmer">#dddddd</color>
+</resources>
